@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "SportEvents.Importer": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
